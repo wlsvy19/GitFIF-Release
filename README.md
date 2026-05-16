@@ -8,7 +8,7 @@ GitFIF Desktop 실행 파일 다운로드 전용 저장소입니다.
 | OS | 파일 |
 | --- | --- |
 | Windows x64 | [GitFIF-Windows-x64.zip](downloads/GitFIF-Windows-x64.zip) |
-| macOS | [GitFIF-macOS.zip](downloads/GitFIF-macOS.zip) |
+| macOS Apple Silicon | [GitFIF-macOS.dmg](downloads/GitFIF-macOS.dmg) |
 
 ## 사용 방법
 
@@ -20,9 +20,9 @@ GitFIF Desktop 실행 파일 다운로드 전용 저장소입니다.
 
 ### macOS
 
-1. `GitFIF-macOS.zip`을 다운로드합니다.
-2. 압축을 해제합니다.
-3. `GitFIF.app`을 실행합니다.
+1. `GitFIF-macOS.dmg`를 다운로드합니다.
+2. DMG 파일을 엽니다.
+3. `GitFIF Desktop.app`을 실행하거나 Applications 폴더로 옮겨 사용합니다.
 
 ## 무결성 확인
 
