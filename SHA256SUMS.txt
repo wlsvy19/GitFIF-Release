@@ -1,2 +1,2 @@
-d40016a337ba5ba110ce98be4379303b5de644b2737cd608d080af1997a8b265  downloads/GitFIF-macOS.dmg
+21e96b20bc50eca1594644db4e59a2d31077902e409f8b18aa6d27e9e3f33deb  downloads/GitFIF-macOS.dmg
 280d27c88251e9c1471d6baf9752026dc18a407fc10228a61de3ef5adb306aa1  downloads/GitFIF-Windows-x64.zip
