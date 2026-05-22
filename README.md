@@ -2,6 +2,10 @@
 
 GitFIF 실행 파일 다운로드 전용 저장소입니다.
 
+![GitFIF Desktop 화면](assets/gitfif-desktop.png)
+
+GitFIF Desktop은 커밋 그래프, 브랜치/태그 표시, 변경 파일 stage/unstage, diff 확인, 검색, 테마 설정을 한 화면에서 다룰 수 있는 Electron 기반 데스크톱 Git 클라이언트입니다.
+이 저장소에서는 Windows와 macOS에서 바로 실행할 수 있는 배포 파일만 제공합니다.
 
 ## 다운로드
 
