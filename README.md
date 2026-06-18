@@ -11,7 +11,7 @@ GitFIF Desktop은 커밋 그래프, 브랜치/태그 표시, 변경 파일 stage
 
 | OS | 파일 |
 | --- | --- |
-| Windows x64 설치 파일 | [GitFIF-Windows.exe](https://github.com/wlsvy19/GitFIF-Release/raw/main/downloads/GitFIF-Windows.exe) |
+| Windows x64 설치 파일 | [GitFIF-Windows.exe](https://github.com/wlsvy19/GitFIF-Release/releases/latest/download/GitFIF-Windows.exe) |
 | macOS Apple Silicon | [GitFIF-macOS.dmg](https://github.com/wlsvy19/GitFIF-Release/raw/main/downloads/GitFIF-macOS.dmg) |
 
 ## 사용 방법
