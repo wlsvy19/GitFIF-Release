@@ -1,2 +1,2 @@
-4ce90fe58632aafff8eb9a960fa4ab669d2f75351e87286a8f8bf5d8f91d9ec4  GitFIF-Windows.exe
-59ec69d9a09a59c00ee99cf4a633cb165e4a94ce12a3a030096b41a7ff4142fb  GitFIF-macOS.dmg
+010e4158994ee7efbd98e735cc385df86c654d86e869ca49e8120675a0795766  GitFIF-Windows.exe
+502a56ef8d6cb3c4f58e5eeb804fe73ae4d922ffca72fb57dbd316d1602ffa95  GitFIF-Windows-x64.zip
