@@ -6,11 +6,11 @@
 
 이 저장소는 GitFIF 실행 파일 다운로드 전용 저장소입니다. Windows와 macOS에서 바로 설치하거나 실행할 수 있는 배포 파일만 제공합니다.
 
-## 만든 이유
+## 프로젝트 배경
 
 GitKraken Desktop 무료 버전은 private repository나 self-hosted repository를 열 때 업그레이드를 요구합니다.
 
-GitFIF는 이 불편함에서 출발했습니다. private repository도 보기 좋은 그래프 UI로 편하게 열고, pull/push/commit/diff 같은 일상적인 Git 작업을 무료로 사용할 수 있게 만드는 것이 목표입니다.
+GitFIF는 이러한 제약에서 출발했습니다. private repository도 보기 좋은 그래프 UI로 편하게 열고, pull/push/commit/diff 같은 일상적인 Git 작업을 무료로 사용할 수 있게 만드는 것이 목표입니다.
 
 GitFIF는 GitKraken과 별개의 독립 프로젝트입니다. GitKraken은 해당 소유자의 상표입니다.
 
