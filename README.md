@@ -1,6 +1,6 @@
 # GitFIF
 
-**GitFIF**는 GitKraken처럼 그래프 기반으로 Git 이력을 보고, 여러 저장소를 탭으로 관리할 수 있는 데스크톱 Git 클라이언트입니다. 이름은 **Flame In Frozen**의 약자로, “머리는 차갑게, 가슴은 뜨겁게” Git 작업을 다루자는 뜻을 담았습니다.
+**GitFIF**는 GitKraken처럼 그래프 기반으로 Git 이력을 보고, 여러 저장소를 탭으로 관리할 수 있는 데스크톱 Git 클라이언트입니다. 
 
 ![GitFIF Desktop 화면](assets/gitfif-desktop.png)
 
