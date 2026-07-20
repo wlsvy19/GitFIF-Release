@@ -1,1 +1,2 @@
 aac19e7bfa2fcc4ac0d45bb9363bd5d98fab8b77c486ed497f5069fd3256e500  GitFIF-Windows.exe
+38c674357de343bb0b6ddfa0b8bf8b329b5dbcfa3f410085a18095925190f2e7  installGitFIF.dmg
