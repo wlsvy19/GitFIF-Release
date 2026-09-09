@@ -1,2 +1,2 @@
 6e9030de43c0f4bee036b01bdc4fc8d58df84a01a6047fde2db4ab28ff6ddb11  installGitFIF.dmg
-6de3db59cac84f2761bd389dc4bbbc7bc3a8514c7b60d5222e1602aaf3092557  GitFIFSetup.exe
+26fc05ea2ab08e49fcbefade0f4743ae21dfffc51709aeb7e08cf2c5075f4acb  GitFIFSetup.exe
