@@ -40,7 +40,7 @@ GitFIF는 GitKraken과 별개의 독립 프로젝트입니다. GitKraken은 해�
 | OS | 파일 |
 | --- | --- |
 | Windows x64 설치 파일 | [GitFIFSetup.exe](https://github.com/wlsvy19/GitFIF-Release/releases/latest/download/GitFIFSetup.exe) |
-| macOS Apple Silicon | [installGitFIF.dmg](https://github.com/wlsvy19/GitFIF-Release/raw/main/downloads/installGitFIF.dmg) |
+| macOS Apple Silicon | [installGitFIF.dmg](https://github.com/wlsvy19/GitFIF-Release/releases/latest/download/installGitFIF.dmg) |
 
 ## 사용 방법
 

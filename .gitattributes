@@ -1,3 +1,2 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.dmg filter=lfs diff=lfs merge=lfs -text
-downloads/installGitFIF.dmg -filter -diff -merge -text
